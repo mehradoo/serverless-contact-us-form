@@ -176,7 +176,7 @@ Resources:
               req.write(postData);
               req.end();
           };
-      Runtime: nodejs6.10
+      Runtime: nodejs12.x
 
   #
   # Create the API Gateway
